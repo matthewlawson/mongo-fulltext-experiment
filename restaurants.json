@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Express",
+    "address": {
+      "building": "Waldorf Centre",
+      "town": "Ipswich",
+      "street": "22 High Street",
+      "county": "Sussex",
+      "postcode": "IP1 2DF",
+      "country": "UK"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        1.175537,
+        52.033274
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Chiquitos",
+    "address": {
+      "building": "22",
+      "town": "London",
+      "street": "Oxford Street",
+      "county": "London",
+      "postcode": "NW1 9DS",
+      "country": "UK"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -0.043945,
+        51.482452
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pizza Express",
+    "address": {
+      "building": "42",
+      "town": "London",
+      "street": "Oxford Street",
+      "county": "London",
+      "postcode": "NW1 9DS",
+      "country": "UK"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -0.043945,
+        51.432452
+      ]
+    }
+  }
+]
